@@ -8,4 +8,5 @@ Take any gptOS version from 1.0. Put it on the apps folder. write in index.html 
 # Credits
 
 ChatGPT for documentation
+
 Google Gemini for code
